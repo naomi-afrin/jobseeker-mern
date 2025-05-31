@@ -8,7 +8,7 @@
 
 ## 🖼 Homepage
 
-![Homepage](images/homepage.png)
+![Homepage](screenshots/homepage.png)
 
 ---
 
